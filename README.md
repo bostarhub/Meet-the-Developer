@@ -10,4 +10,6 @@
 
 😄 Pronouns: She/Her
 
-⚡ Fun fact: When I'm not coding, you'll likely find me exploring nature's wonders on a hiking trail or experimenting with exotic cuisines in my kitchen. Life is an adventure, and I'm here to make the most of it, one line of code at a time!
+⚡ Fun fact: Life is an adventure, and I'm here to make the most of it, one line of code at a time! When I'm not coding, you'll likely find me exploring nature's wonders on a hiking trail or experimenting with exotic cuisines in my kitchen.
+
+#CodingAdventurer 🚀
